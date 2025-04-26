@@ -3,7 +3,7 @@ title: "Long-Term Development Indicators and Global Trends"
 author: 
   - name: "Jacky An (Emory ID: 2486597)"
   - name: "Bernice (Emory ID: 2487091)"
-  - name: "Eric"
+  - name: "Eric (Emory ID 2548644)"
 date: "04/21/2025"
 format: html
 editor: 
