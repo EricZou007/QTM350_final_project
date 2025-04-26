@@ -85,4 +85,4 @@ To replicate our results and analysis:
 
 ## Acknowledgments
 
-We thank the **World Bank** for providing access to the WDI database and credit our course instructor **Danilo Freire**!!!
+We thank the **World Bank** for providing access to the WDI database and credit our course instructor Danilo Freire!!!
